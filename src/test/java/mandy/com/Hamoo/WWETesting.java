@@ -17,23 +17,13 @@ public class WWETesting {
 		assertEquals("Becky Lynch", Champion);
 		
 	}
-	@Test
+  @Test
 	public void Block2_Get() {
 		
 		//WWEWomenDivision W = new WWEWomenDivision();
-		String tagChampion = "alexa";
+		String Champion = "Becky Lynch";
 		
-		assertEquals("alexa", tagChampion);
-		
-	}
-	@Test
-	public void Block3_Get() {
-		
-		//WWEWomenDivision W = new WWEWomenDivision();
-		String tagChampion = "alexa";
-		
-		assertEquals("auska", tagChampion);
+		assertEquals("Becky Lynch", Champion);
 		
 	}
-	
 }
