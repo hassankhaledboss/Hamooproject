@@ -21,7 +21,7 @@ public class WWETesting {
 	public void Block2_Get() {
 		
 		//WWEWomenDivision W = new WWEWomenDivision();
-		String Champion = "f";
+		String Champion = "h";
 		
 		assertEquals("Becky Lynch", Champion);
 		
