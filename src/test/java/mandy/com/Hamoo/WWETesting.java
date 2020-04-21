@@ -26,4 +26,21 @@ public class WWETesting {
 		assertEquals("Becky Lynch", Champion);
 		
 	}
+	 @Test
+
+	public void Block3_Get() {
+
+		
+
+		//WWEWomenDivision W = new WWEWomenDivision();
+
+		String Champion = "Becky Lynch";
+
+		
+
+		assertEquals("Becky Lynch", Champion);
+
+		
+
+	}
 }
