@@ -12,10 +12,27 @@ public class WWETesting {
 	public void Block1_Get() {
 		
 		//WWEWomenDivision W = new WWEWomenDivision();
-		String Champion = "Becky Lynch";
+		String Champion = "a";
 		
 		assertEquals("Becky Lynch", Champion);
 		
+	}
+	@Test
+
+	public void Block2_Get() {
+
+		
+
+		//WWEWomenDivision W = new WWEWomenDivision();
+
+		String Champion = "Becky Lynch";
+
+		
+
+		assertEquals("Becky Lynch", Champion);
+
+		
+
 	}
 	
 	
