@@ -27,7 +27,7 @@ public class WWETesting {
 		
 	}
 	@Test
-	public void Block4_Get() {
+	public void Block3_Get() {
 		
 		//WWEWomenDivision W = new WWEWomenDivision();
 		String tagChampion = "alexa";
