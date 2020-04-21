@@ -30,7 +30,7 @@ public class WWETesting {
 	public void Block3_Get() {
 		
 		//WWEWomenDivision W = new WWEWomenDivision();
-		String tagChampion = "alexa";
+		String tagChampion = "r";
 		
 		assertEquals("auska", tagChampion);
 		
