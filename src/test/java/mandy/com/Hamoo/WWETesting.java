@@ -26,6 +26,14 @@ public class WWETesting {
 		assertEquals("alexa", tagChampion);
 		
 	}
-	
+	@Test
+	public void Block3_Get() {
+		
+		//WWEWomenDivision W = new WWEWomenDivision();
+		String tagChampion = "alexa";
+		
+		assertEquals("auska", tagChampion);
+		
+	}
 	
 }
